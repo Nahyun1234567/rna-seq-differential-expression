@@ -6,7 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data (optional: raw data는 커밋 안 할 경우)
-data/raw/*.csv
+data/raw/*.tsv
 
 # OS
 .DS_Store

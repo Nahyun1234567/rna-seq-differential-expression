@@ -1,0 +1,10 @@
+sample,condition
+HepG2_Luc_rep1,control
+HepG2_Luc_rep2,control
+HepG2_Luc_rep3,control
+HepG2_SIRT6_WT_rep1,wt
+HepG2_SIRT6_WT_rep2,wt
+HepG2_SIRT6_WT_rep3,wt
+HepG2_SIRT6_N308K_A313S_rep1,variant
+HepG2_SIRT6_N308K_A313S_rep2,variant
+HepG2_SIRT6_N308K_A313S_rep3,variant
